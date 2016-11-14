@@ -46,20 +46,19 @@ width: 100%;
 margin-top: 2em;
 position: inline-block;
 background-color: gray;
-background: rgba(20,20,20,0.5);
-;
+background: rgba(80,80,80,0.6);
 }
-
+table:hover{ color:;}
 .nav1{
 	text-decoration: overline;
 	text-decoration-color: black;
 }
 a{
 	color: darkblue;}
-a:hover{
-	color: cyan;}
 a:visited{
 	color: blue;}
+a:hover{ 
+	color:cyan;}
 
 #navline{ 
 background-color: white;
